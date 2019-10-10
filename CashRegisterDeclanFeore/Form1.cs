@@ -152,6 +152,7 @@ namespace CashRegisterDeclanFeore
                 messageLabel.Text = "Please fill out every box before printing receipt!";
             }
         }
+
         private void NewOrderButton_Click(object sender, EventArgs e)
         {
             //Graphics Settings
